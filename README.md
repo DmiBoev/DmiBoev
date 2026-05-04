@@ -19,7 +19,7 @@ Below are my key projects written in C. They demonstrate my skills in memory man
 | :--- | :--- | :--- |
 | **[String.h Library](ссылка_на_репозиторий)** | Custom implementation of the standard `string.h` library. Deep dive into pointers and memory management. | C, Unit-tests (Check) |
 | **[Simple Bash Utils](ссылка_на_репозиторий)** | Replicas of `cat` and `grep` system utilities. Includes support for basic flags and regular expressions. | C, Bash scripts |
-| **[Game of Life](https://github.com)** | A console-based implementation of John Conway's Game of Life with terminal graphics. | C |
+| **[Game of Life](https://github.com/DmiBoev/game-of-life)** | A console-based implementation of John Conway's Game of Life with terminal graphics. | C |
 
 ---
 
