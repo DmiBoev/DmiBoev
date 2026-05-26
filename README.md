@@ -11,17 +11,16 @@ I am a student at **School 21** (Sber IT), where I study low-level programming a
 
 ---
 
-### 📁 Selected Projects (C / System Programming)
-Below are my key projects written in C. They demonstrate my skills in memory management, algorithms, and working with system calls.
+### 📁 Selected Projects (Go / C / System Programming)
+Below are my key projects. They demonstrate my skills in microservice development, database design, memory management, and system architecture.
 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[String.h Library](https://github.com/DmiBoev/implementation-of-string-library-functions)** | Custom implementation of the standard `string.h` library. Deep dive into pointers and memory management. | C, Unit-tests (Check) |
-| **[Simple Bash Utils](https://github.com/DmiBoev/custom-cat-grep)** | Replicas of `cat` and `grep` system utilities. Includes support for basic flags and regular expressions. | C, Bash scripts |
-| **[Game of Life](https://github.com/DmiBoev/game-of-life)** | A console-based implementation of John Conway's Game of Life with terminal graphics. | C |
-
----
+| **[Department Management API](https://github.com/DmiBoev/Go---API-)** | REST API for managing tree-structured organizational departments and employees. Features cascade deletion and dynamic reassignment. | Go, GORM, PostgreSQL, Goose, Docker |
+| **[String.h Library](https://github.com)** | Custom implementation of the standard `string.h` library. Deep dive into pointers and memory management. | C, Unit-tests (Check) |
+| **[Simple Bash Utils](https://github.com)** | Replicas of `cat` and `grep` system utilities. Includes support for basic flags and regular expressions. | C, Bash scripts |
+| **[Game of Life](https://github.com)** | A console-based implementation of John Conway's Game of Life with terminal graphics. | C |
 
 ### 🚀 Currently Learning
 - **Microservices** design patterns in Go.
