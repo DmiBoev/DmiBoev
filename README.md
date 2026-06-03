@@ -18,7 +18,7 @@ Below are my key projects. They demonstrate my skills in microservice developmen
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[Department Management API](https://github.com/DmiBoev/Go---API-)** | REST API for managing tree-structured organizational departments and employees. Features cascade deletion and dynamic reassignment. | Go, GORM, PostgreSQL, Goose, Docker |
-| **[String.h Library]([https://github.com/DmiBoev/implementation-of-string-library-functions.git])** | Custom implementation of the standard `string.h` library. Deep dive into pointers and memory management. | C, Unit-tests (Check) |
+| **[String.h Library](https://github.com/DmiBoev/implementation-of-string-library-functions.git)** | Custom implementation of the standard `string.h` library. Deep dive into pointers and memory management. | C, Unit-tests (Check) |
 | **[Game of Life](https://github.com/DmiBoev/game-of-life.git)** | A console-based implementation of John Conway's Game of Life with terminal graphics. | C |
 
 ### Currently Learning
