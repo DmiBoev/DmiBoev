@@ -11,7 +11,7 @@ I am a student at **School 21** (Sber IT), where I study low-level programming a
 
 ---
 
-### 📁 Selected Projects (Go / C / System Programming)
+### Selected Projects (Go / C / System Programming)
 Below are my key projects. They demonstrate my skills in microservice development, database design, memory management, and system architecture.
 
 
