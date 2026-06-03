@@ -1,4 +1,4 @@
-# Hi! I'm Dmitry Boev (DmiBoev), Backend Developer 🚀
+# Hi! I'm Dmitry Boev (DmiBoev), Backend Developer
 
 I am a student at **School 21** (Sber IT), where I study low-level programming and systems architecture. My main focus is developing high-performance applications using **Go**.
 
@@ -22,13 +22,13 @@ Below are my key projects. They demonstrate my skills in microservice developmen
 | **[Simple Bash Utils](https://github.com)** | Replicas of `cat` and `grep` system utilities. Includes support for basic flags and regular expressions. | C, Bash scripts |
 | **[Game of Life](https://github.com)** | A console-based implementation of John Conway's Game of Life with terminal graphics. | C |
 
-### 🚀 Currently Learning
+### Currently Learning
 - **Microservices** design patterns in Go.
 - Advanced **Docker** orchestration and optimization.
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 * **Telegram:** [@boevdv](https://t.me)
 * **Email:** [dima_boev_01@mail.ru](mailto:dima_boev_01@mail.ru)
 
