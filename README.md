@@ -4,7 +4,7 @@ I am a student at **School 21** (Sber IT), where I study low-level programming a
 
 ---
 
-### 🛠 Technology Stack
+### Technology Stack
 * **Languages:** Go, C, Bash
 * **Databases:** PostgreSQL, ClickHouse, Redis
 * **DevOps & Tools:** Docker, Git, VS Code
